@@ -1,0 +1,574 @@
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'wurlitzer', 'bayanpy', 'infomap', 'graph_tool'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'pyclustering', 'ASLPAw'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'wurlitzer', 'infomap'}
+In epoch 0, train loss: 2.9319, val_acc: 0.0783 (best_val_acc: 0.0783)
+In epoch 10, train loss: 1.9698, val_acc: 0.1492 (best_val_acc: 0.3102)
+In epoch 20, train loss: 1.6417, val_acc: 0.3205 (best_val_acc: 0.3427)
+In epoch 30, train loss: 0.8799, val_acc: 0.7253 (best_val_acc: 0.7253)
+In epoch 40, train loss: 0.3117, val_acc: 0.8759 (best_val_acc: 0.8774)
+In epoch 50, train loss: 0.1939, val_acc: 0.8759 (best_val_acc: 0.8877)
+In epoch 60, train loss: 0.1316, val_acc: 0.8863 (best_val_acc: 0.8892)
+In epoch 70, train loss: 0.1018, val_acc: 0.8744 (best_val_acc: 0.8892)
+In epoch 80, train loss: 0.0868, val_acc: 0.8656 (best_val_acc: 0.8892)
+In epoch 90, train loss: 0.0778, val_acc: 0.8700 (best_val_acc: 0.8892)
+In epoch 100, train loss: 0.0714, val_acc: 0.8671 (best_val_acc: 0.8892)
+In epoch 110, train loss: 0.0693, val_acc: 0.8671 (best_val_acc: 0.8892)
+In epoch 120, train loss: 0.0665, val_acc: 0.8656 (best_val_acc: 0.8892)
+In epoch 130, train loss: 0.0674, val_acc: 0.8671 (best_val_acc: 0.8892)
+In epoch 140, train loss: 0.0665, val_acc: 0.8700 (best_val_acc: 0.8892)
+In epoch 150, train loss: 0.0650, val_acc: 0.8715 (best_val_acc: 0.8892)
+all transformer (R7) GCN3, considering node1, and single org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 55, Accuracy: 0.8818, Precision: 0.8822, Recall: 0.8818, F1-score 0.8810
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'graph_tool', 'infomap', 'wurlitzer', 'leidenalg', 'bayanpy'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'pyclustering', 'ASLPAw'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'leidenalg', 'wurlitzer'}
+In epoch 0, train loss: 2.5916, val_acc: 0.1654 (best_val_acc: 0.1654)
+In epoch 10, train loss: 1.9031, val_acc: 0.2186 (best_val_acc: 0.3072)
+In epoch 20, train loss: 1.7611, val_acc: 0.3072 (best_val_acc: 0.3442)
+In epoch 30, train loss: 1.1497, val_acc: 0.5657 (best_val_acc: 0.6455)
+In epoch 40, train loss: 0.3621, val_acc: 0.8730 (best_val_acc: 0.8730)
+In epoch 50, train loss: 0.2169, val_acc: 0.8804 (best_val_acc: 0.8848)
+In epoch 60, train loss: 0.1462, val_acc: 0.8804 (best_val_acc: 0.8877)
+In epoch 70, train loss: 0.1109, val_acc: 0.8730 (best_val_acc: 0.8877)
+In epoch 80, train loss: 0.0922, val_acc: 0.8685 (best_val_acc: 0.8877)
+In epoch 90, train loss: 0.0814, val_acc: 0.8656 (best_val_acc: 0.8877)
+In epoch 100, train loss: 0.0745, val_acc: 0.8656 (best_val_acc: 0.8877)
+In epoch 110, train loss: 0.0703, val_acc: 0.8656 (best_val_acc: 0.8877)
+In epoch 120, train loss: 0.0687, val_acc: 0.8641 (best_val_acc: 0.8877)
+In epoch 130, train loss: 0.0687, val_acc: 0.8671 (best_val_acc: 0.8877)
+In epoch 140, train loss: 0.0651, val_acc: 0.8641 (best_val_acc: 0.8877)
+In epoch 150, train loss: 0.0659, val_acc: 0.8656 (best_val_acc: 0.8877)
+all transformer (R7) GCN3, considering node1, and single org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 53, Accuracy: 0.8877, Precision: 0.8876, Recall: 0.8877, F1-score 0.8869
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'graph_tool', 'bayanpy', 'wurlitzer', 'leidenalg'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'leidenalg'}
+In epoch 0, train loss: 2.5780, val_acc: 0.1448 (best_val_acc: 0.1448)
+In epoch 10, train loss: 1.9066, val_acc: 0.2053 (best_val_acc: 0.3072)
+In epoch 20, train loss: 1.6338, val_acc: 0.4948 (best_val_acc: 0.4948)
+In epoch 30, train loss: 0.7689, val_acc: 0.8287 (best_val_acc: 0.8287)
+In epoch 40, train loss: 0.3090, val_acc: 0.8759 (best_val_acc: 0.8759)
+In epoch 50, train loss: 0.1888, val_acc: 0.8804 (best_val_acc: 0.8848)
+In epoch 60, train loss: 0.1300, val_acc: 0.8833 (best_val_acc: 0.8863)
+In epoch 70, train loss: 0.1010, val_acc: 0.8700 (best_val_acc: 0.8863)
+In epoch 80, train loss: 0.0855, val_acc: 0.8671 (best_val_acc: 0.8863)
+In epoch 90, train loss: 0.0773, val_acc: 0.8626 (best_val_acc: 0.8863)
+In epoch 100, train loss: 0.0719, val_acc: 0.8597 (best_val_acc: 0.8863)
+In epoch 110, train loss: 0.0688, val_acc: 0.8641 (best_val_acc: 0.8863)
+In epoch 120, train loss: 0.0680, val_acc: 0.8685 (best_val_acc: 0.8863)
+In epoch 130, train loss: 0.0658, val_acc: 0.8641 (best_val_acc: 0.8863)
+In epoch 140, train loss: 0.0653, val_acc: 0.8626 (best_val_acc: 0.8863)
+In epoch 150, train loss: 0.0657, val_acc: 0.8685 (best_val_acc: 0.8863)
+all transformer (R7) GCN3, considering node1, and single org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 59, Accuracy: 0.8863, Precision: 0.8861, Recall: 0.8863, F1-score 0.8853
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'graph_tool', 'infomap', 'leidenalg', 'wurlitzer', 'bayanpy'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'leidenalg', 'wurlitzer'}
+In epoch 0, train loss: 2.6814, val_acc: 0.1019 (best_val_acc: 0.1019)
+In epoch 10, train loss: 1.8622, val_acc: 0.1773 (best_val_acc: 0.3072)
+In epoch 20, train loss: 1.5526, val_acc: 0.4609 (best_val_acc: 0.4609)
+In epoch 30, train loss: 0.6604, val_acc: 0.7873 (best_val_acc: 0.7873)
+In epoch 40, train loss: 0.2416, val_acc: 0.8848 (best_val_acc: 0.8848)
+In epoch 50, train loss: 0.1261, val_acc: 0.8848 (best_val_acc: 0.8922)
+In epoch 60, train loss: 0.0643, val_acc: 0.8818 (best_val_acc: 0.8922)
+In epoch 70, train loss: 0.0382, val_acc: 0.8700 (best_val_acc: 0.8922)
+In epoch 80, train loss: 0.0230, val_acc: 0.8641 (best_val_acc: 0.8922)
+In epoch 90, train loss: 0.0144, val_acc: 0.8759 (best_val_acc: 0.8922)
+In epoch 100, train loss: 0.0096, val_acc: 0.8715 (best_val_acc: 0.8922)
+In epoch 110, train loss: 0.0074, val_acc: 0.8685 (best_val_acc: 0.8922)
+In epoch 120, train loss: 0.0060, val_acc: 0.8656 (best_val_acc: 0.8922)
+In epoch 130, train loss: 0.0051, val_acc: 0.8671 (best_val_acc: 0.8922)
+In epoch 140, train loss: 0.0045, val_acc: 0.8641 (best_val_acc: 0.8922)
+all transformer (R7) GCN3, considering node1, and single org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 48, Accuracy: 0.8936, Precision: 0.8945, Recall: 0.8936, F1-score 0.8928
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'infomap', 'wurlitzer', 'bayanpy', 'graph_tool'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'leidenalg'}
+Traceback (most recent call last):
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/untitled_wiki_modi.py", line 211, in <module>
+    contrastive_loss12 = combined_contrastive_loss_with_distance_based_neg_samples(projected_node_features1,projected_node_features2,  DICT_refined_knn_kmeans,DICT_refined_natural,edge_index,shortest_paths_tensor,cosine_similarity_matrix)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/loss_modi.py", line 228, in combined_contrastive_loss_with_distance_based_neg_samples
+    neighborhood_mask = create_neighborhood_mask(num_nodes, edge_index).to(Hx.device)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/loss_modi.py", line 72, in create_neighborhood_mask
+    adjacency_matrix[edge_index[0], edge_index[1]] = 1
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IndexError: shape mismatch: indexing tensors could not be broadcast together with shapes [6], [2]
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'bayanpy', 'leidenalg', 'graph_tool', 'infomap'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'wurlitzer', 'leidenalg'}
+In epoch 0, train loss: 2.6036, val_acc: 0.1418 (best_val_acc: 0.1418)
+In epoch 10, train loss: 1.9283, val_acc: 0.2038 (best_val_acc: 0.3072)
+In epoch 20, train loss: 1.6693, val_acc: 0.3131 (best_val_acc: 0.3205)
+In epoch 30, train loss: 1.0706, val_acc: 0.6396 (best_val_acc: 0.6396)
+In epoch 40, train loss: 0.2823, val_acc: 0.8818 (best_val_acc: 0.8818)
+In epoch 50, train loss: 0.1623, val_acc: 0.8833 (best_val_acc: 0.8892)
+In epoch 60, train loss: 0.0845, val_acc: 0.8848 (best_val_acc: 0.8892)
+In epoch 70, train loss: 0.0507, val_acc: 0.8774 (best_val_acc: 0.8892)
+In epoch 80, train loss: 0.0324, val_acc: 0.8730 (best_val_acc: 0.8892)
+In epoch 90, train loss: 0.0213, val_acc: 0.8626 (best_val_acc: 0.8892)
+In epoch 100, train loss: 0.0145, val_acc: 0.8715 (best_val_acc: 0.8892)
+In epoch 110, train loss: 0.0108, val_acc: 0.8730 (best_val_acc: 0.8892)
+In epoch 120, train loss: 0.0089, val_acc: 0.8700 (best_val_acc: 0.8892)
+In epoch 130, train loss: 0.0073, val_acc: 0.8671 (best_val_acc: 0.8892)
+In epoch 140, train loss: 0.0065, val_acc: 0.8685 (best_val_acc: 0.8892)
+all transformer (R7) GCN3, considering node1, and double modi. loss with natural hye(+), With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 49, Accuracy: 0.8818, Precision: 0.8840, Recall: 0.8818, F1-score 0.8810
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'leidenalg', 'bayanpy', 'graph_tool'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'leidenalg'}
+In epoch 0, train loss: 2.8968, val_acc: 0.0133 (best_val_acc: 0.0133)
+In epoch 10, train loss: 1.8964, val_acc: 0.2216 (best_val_acc: 0.3072)
+In epoch 20, train loss: 1.5757, val_acc: 0.4609 (best_val_acc: 0.4609)
+In epoch 30, train loss: 0.6910, val_acc: 0.8021 (best_val_acc: 0.8021)
+In epoch 40, train loss: 0.2727, val_acc: 0.8833 (best_val_acc: 0.8833)
+In epoch 50, train loss: 0.1545, val_acc: 0.8863 (best_val_acc: 0.8907)
+In epoch 60, train loss: 0.0960, val_acc: 0.8804 (best_val_acc: 0.8907)
+In epoch 70, train loss: 0.0660, val_acc: 0.8715 (best_val_acc: 0.8907)
+In epoch 80, train loss: 0.0520, val_acc: 0.8656 (best_val_acc: 0.8907)
+In epoch 90, train loss: 0.0444, val_acc: 0.8656 (best_val_acc: 0.8907)
+In epoch 100, train loss: 0.0396, val_acc: 0.8626 (best_val_acc: 0.8907)
+In epoch 110, train loss: 0.0359, val_acc: 0.8612 (best_val_acc: 0.8907)
+In epoch 120, train loss: 0.0344, val_acc: 0.8641 (best_val_acc: 0.8907)
+In epoch 130, train loss: 0.0343, val_acc: 0.8641 (best_val_acc: 0.8907)
+In epoch 140, train loss: 0.0327, val_acc: 0.8641 (best_val_acc: 0.8907)
+all transformer (R7) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 45, Accuracy: 0.8922, Precision: 0.8925, Recall: 0.8922, F1-score 0.8915
+Traceback (most recent call last):
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/untitled_wiki_modi.py", line 23, in <module>
+    import hypergraph_construction_modi
+ModuleNotFoundError: No module named 'hypergraph_construction_modi'
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'bayanpy', 'graph_tool', 'leidenalg', 'wurlitzer'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'leidenalg', 'wurlitzer'}
+In epoch 0, train loss: 2.6704, val_acc: 0.1185 (best_val_acc: 0.1185)
+In epoch 10, train loss: 1.8860, val_acc: 0.1963 (best_val_acc: 0.3296)
+In epoch 20, train loss: 1.5438, val_acc: 0.3815 (best_val_acc: 0.3815)
+In epoch 30, train loss: 0.5952, val_acc: 0.7963 (best_val_acc: 0.7963)
+In epoch 40, train loss: 0.1615, val_acc: 0.8556 (best_val_acc: 0.8593)
+In epoch 50, train loss: 0.0707, val_acc: 0.8444 (best_val_acc: 0.8704)
+In epoch 60, train loss: 0.0486, val_acc: 0.8407 (best_val_acc: 0.8704)
+In epoch 70, train loss: 0.0402, val_acc: 0.8259 (best_val_acc: 0.8704)
+In epoch 80, train loss: 0.0376, val_acc: 0.8296 (best_val_acc: 0.8704)
+In epoch 90, train loss: 0.0353, val_acc: 0.8333 (best_val_acc: 0.8704)
+In epoch 100, train loss: 0.0333, val_acc: 0.8296 (best_val_acc: 0.8704)
+In epoch 110, train loss: 0.0324, val_acc: 0.8333 (best_val_acc: 0.8704)
+In epoch 120, train loss: 0.0338, val_acc: 0.8296 (best_val_acc: 0.8704)
+In epoch 130, train loss: 0.0323, val_acc: 0.8370 (best_val_acc: 0.8704)
+In epoch 140, train loss: 0.0311, val_acc: 0.8259 (best_val_acc: 0.8704)
+all transformer (R7) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 44, Accuracy: 0.8528, Precision: 0.8546, Recall: 0.8528, F1-score 0.8523
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'graph_tool', 'leidenalg', 'wurlitzer', 'infomap', 'bayanpy'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'infomap', 'wurlitzer'}
+In epoch 0, train loss: 2.6233, val_acc: 0.1843 (best_val_acc: 0.1843)
+In epoch 10, train loss: 1.9797, val_acc: 0.1782 (best_val_acc: 0.2628)
+In epoch 20, train loss: 1.1984, val_acc: 0.3958 (best_val_acc: 0.4955)
+In epoch 30, train loss: 0.2320, val_acc: 0.6858 (best_val_acc: 0.7372)
+In epoch 40, train loss: 0.0909, val_acc: 0.6979 (best_val_acc: 0.7372)
+In epoch 50, train loss: 0.0742, val_acc: 0.6888 (best_val_acc: 0.7372)
+In epoch 60, train loss: 0.0720, val_acc: 0.7039 (best_val_acc: 0.7372)
+In epoch 70, train loss: 0.0642, val_acc: 0.6979 (best_val_acc: 0.7372)
+In epoch 80, train loss: 0.0640, val_acc: 0.7069 (best_val_acc: 0.7372)
+In epoch 90, train loss: 0.0661, val_acc: 0.6979 (best_val_acc: 0.7372)
+In epoch 100, train loss: 0.0658, val_acc: 0.7069 (best_val_acc: 0.7372)
+In epoch 110, train loss: 0.0638, val_acc: 0.7069 (best_val_acc: 0.7372)
+In epoch 120, train loss: 0.0638, val_acc: 0.6979 (best_val_acc: 0.7372)
+all transformer (R7) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 26, Accuracy: 0.7045, Precision: 0.7331, Recall: 0.7045, F1-score 0.6780
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'bayanpy', 'graph_tool', 'wurlitzer', 'infomap', 'leidenalg'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'pyclustering', 'ASLPAw'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'leidenalg'}
+In epoch 0, train loss: 2.6144, val_acc: 0.0151 (best_val_acc: 0.0151)
+In epoch 10, train loss: 1.9007, val_acc: 0.2175 (best_val_acc: 0.2417)
+In epoch 20, train loss: 1.0392, val_acc: 0.6556 (best_val_acc: 0.6556)
+In epoch 30, train loss: 0.1920, val_acc: 0.6677 (best_val_acc: 0.6949)
+In epoch 40, train loss: 0.0949, val_acc: 0.6828 (best_val_acc: 0.7160)
+In epoch 50, train loss: 0.0768, val_acc: 0.6949 (best_val_acc: 0.7160)
+In epoch 60, train loss: 0.0691, val_acc: 0.6949 (best_val_acc: 0.7160)
+In epoch 70, train loss: 0.0654, val_acc: 0.6949 (best_val_acc: 0.7160)
+In epoch 80, train loss: 0.0641, val_acc: 0.6949 (best_val_acc: 0.7160)
+In epoch 90, train loss: 0.0633, val_acc: 0.7039 (best_val_acc: 0.7160)
+In epoch 100, train loss: 0.0632, val_acc: 0.6949 (best_val_acc: 0.7160)
+In epoch 110, train loss: 0.0637, val_acc: 0.7009 (best_val_acc: 0.7160)
+In epoch 120, train loss: 0.0586, val_acc: 0.6918 (best_val_acc: 0.7160)
+In epoch 130, train loss: 0.0629, val_acc: 0.6979 (best_val_acc: 0.7160)
+all transformer (R30) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 35, Accuracy: 0.7079, Precision: 0.7034, Recall: 0.7079, F1-score 0.6946
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'wurlitzer', 'graph_tool', 'leidenalg', 'bayanpy'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'pyclustering', 'ASLPAw'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'infomap', 'wurlitzer'}
+In epoch 0, train loss: 2.7512, val_acc: 0.0091 (best_val_acc: 0.0091)
+In epoch 10, train loss: 1.7499, val_acc: 0.2024 (best_val_acc: 0.2779)
+In epoch 20, train loss: 1.2509, val_acc: 0.4381 (best_val_acc: 0.4532)
+In epoch 30, train loss: 0.2264, val_acc: 0.6767 (best_val_acc: 0.6767)
+In epoch 40, train loss: 0.0432, val_acc: 0.6737 (best_val_acc: 0.7009)
+In epoch 50, train loss: 0.0196, val_acc: 0.6888 (best_val_acc: 0.7009)
+In epoch 60, train loss: 0.0093, val_acc: 0.6828 (best_val_acc: 0.7009)
+In epoch 70, train loss: 0.0059, val_acc: 0.6888 (best_val_acc: 0.7009)
+In epoch 80, train loss: 0.0042, val_acc: 0.6858 (best_val_acc: 0.7009)
+In epoch 90, train loss: 0.0032, val_acc: 0.6888 (best_val_acc: 0.7009)
+In epoch 100, train loss: 0.0029, val_acc: 0.6828 (best_val_acc: 0.7009)
+In epoch 110, train loss: 0.0024, val_acc: 0.6828 (best_val_acc: 0.7009)
+In epoch 120, train loss: 0.0023, val_acc: 0.6888 (best_val_acc: 0.7009)
+In epoch 130, train loss: 0.0022, val_acc: 0.6858 (best_val_acc: 0.7009)
+all transformer (R30) GCN3, considering node1, and single modi. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 35, Accuracy: 0.7023, Precision: 0.7014, Recall: 0.7023, F1-score 0.7001
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'bayanpy', 'graph_tool', 'wurlitzer', 'leidenalg'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'pyclustering', 'ASLPAw'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'leidenalg', 'wurlitzer'}
+Traceback (most recent call last):
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/untitled_wiki_modi.py", line 42, in <module>
+    data_processor = DataProcessor(path_to_data, path_to_label, dataset_name)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/data_preprocessing.py", line 20, in __init__
+    self.add_global_nodes()
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/data_preprocessing.py", line 69, in add_global_nodes
+    s
+NameError: name 's' is not defined
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'graph_tool', 'bayanpy', 'leidenalg', 'infomap', 'wurlitzer'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'infomap', 'wurlitzer'}
+In epoch 0, train loss: 2.6973, val_acc: 0.0816 (best_val_acc: 0.0816)
+In epoch 10, train loss: 1.7196, val_acc: 0.2115 (best_val_acc: 0.2236)
+In epoch 20, train loss: 1.2118, val_acc: 0.3202 (best_val_acc: 0.4562)
+In epoch 30, train loss: 0.2320, val_acc: 0.6858 (best_val_acc: 0.7039)
+In epoch 40, train loss: 0.1016, val_acc: 0.7130 (best_val_acc: 0.7311)
+In epoch 50, train loss: 0.0800, val_acc: 0.7009 (best_val_acc: 0.7311)
+In epoch 60, train loss: 0.0744, val_acc: 0.7100 (best_val_acc: 0.7311)
+In epoch 70, train loss: 0.0722, val_acc: 0.7100 (best_val_acc: 0.7311)
+In epoch 80, train loss: 0.0653, val_acc: 0.7130 (best_val_acc: 0.7311)
+In epoch 90, train loss: 0.0650, val_acc: 0.7009 (best_val_acc: 0.7311)
+In epoch 100, train loss: 0.0677, val_acc: 0.7039 (best_val_acc: 0.7311)
+In epoch 110, train loss: 0.0611, val_acc: 0.6979 (best_val_acc: 0.7311)
+In epoch 120, train loss: 0.0653, val_acc: 0.7039 (best_val_acc: 0.7311)
+In epoch 130, train loss: 0.0644, val_acc: 0.6949 (best_val_acc: 0.7311)
+all transformer (R30) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 10, k_nn: 10, S_value : 2, Best Epoch: 33, Accuracy: 0.7034, Precision: 0.6937, Recall: 0.7034, F1-score 0.6878
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'infomap', 'bayanpy', 'graph_tool', 'wurlitzer'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'wurlitzer', 'infomap'}
+In epoch 0, train loss: 2.7759, val_acc: 0.0302 (best_val_acc: 0.0302)
+In epoch 10, train loss: 1.9730, val_acc: 0.2266 (best_val_acc: 0.2266)
+In epoch 20, train loss: 1.4202, val_acc: 0.5861 (best_val_acc: 0.5861)
+In epoch 30, train loss: 0.2680, val_acc: 0.6918 (best_val_acc: 0.7492)
+In epoch 40, train loss: 0.1060, val_acc: 0.7100 (best_val_acc: 0.7492)
+In epoch 50, train loss: 0.0813, val_acc: 0.7069 (best_val_acc: 0.7492)
+In epoch 60, train loss: 0.0799, val_acc: 0.7069 (best_val_acc: 0.7492)
+In epoch 70, train loss: 0.0722, val_acc: 0.7069 (best_val_acc: 0.7492)
+In epoch 80, train loss: 0.0704, val_acc: 0.7069 (best_val_acc: 0.7492)
+In epoch 90, train loss: 0.0723, val_acc: 0.7130 (best_val_acc: 0.7492)
+In epoch 100, train loss: 0.0669, val_acc: 0.7160 (best_val_acc: 0.7492)
+In epoch 110, train loss: 0.0659, val_acc: 0.7130 (best_val_acc: 0.7492)
+In epoch 120, train loss: 0.0698, val_acc: 0.7130 (best_val_acc: 0.7492)
+all transformer (R30) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 20, k_nn: 20, S_value : 2, Best Epoch: 27, Accuracy: 0.7181, Precision: 0.7171, Recall: 0.7181, F1-score 0.6978
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'bayanpy', 'graph_tool', 'infomap', 'wurlitzer', 'leidenalg'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'leidenalg'}
+In epoch 0, train loss: 2.7412, val_acc: 0.1571 (best_val_acc: 0.1571)
+In epoch 10, train loss: 2.0625, val_acc: 0.1903 (best_val_acc: 0.2205)
+In epoch 20, train loss: 1.2794, val_acc: 0.4411 (best_val_acc: 0.4683)
+In epoch 30, train loss: 0.2778, val_acc: 0.6647 (best_val_acc: 0.7130)
+In epoch 40, train loss: 0.1006, val_acc: 0.7009 (best_val_acc: 0.7251)
+In epoch 50, train loss: 0.0720, val_acc: 0.6858 (best_val_acc: 0.7251)
+In epoch 60, train loss: 0.0702, val_acc: 0.7009 (best_val_acc: 0.7251)
+In epoch 70, train loss: 0.0665, val_acc: 0.7069 (best_val_acc: 0.7251)
+In epoch 80, train loss: 0.0634, val_acc: 0.7039 (best_val_acc: 0.7251)
+In epoch 90, train loss: 0.0618, val_acc: 0.7009 (best_val_acc: 0.7251)
+In epoch 100, train loss: 0.0605, val_acc: 0.6979 (best_val_acc: 0.7251)
+In epoch 110, train loss: 0.0594, val_acc: 0.7100 (best_val_acc: 0.7251)
+In epoch 120, train loss: 0.0542, val_acc: 0.7069 (best_val_acc: 0.7251)
+In epoch 130, train loss: 0.0582, val_acc: 0.7069 (best_val_acc: 0.7251)
+all transformer (R25) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 20, k_nn: 20, S_value : 4, Best Epoch: 33, Accuracy: 0.7038, Precision: 0.7004, Recall: 0.7038, F1-score 0.6888
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'graph_tool', 'bayanpy', 'wurlitzer', 'leidenalg', 'infomap'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'leidenalg'}
+In epoch 0, train loss: 2.6673, val_acc: 0.0967 (best_val_acc: 0.0967)
+In epoch 10, train loss: 1.8173, val_acc: 0.2447 (best_val_acc: 0.2447)
+In epoch 20, train loss: 1.1050, val_acc: 0.5831 (best_val_acc: 0.5831)
+In epoch 30, train loss: 0.2285, val_acc: 0.6918 (best_val_acc: 0.7251)
+In epoch 40, train loss: 0.0922, val_acc: 0.6979 (best_val_acc: 0.7251)
+In epoch 50, train loss: 0.0680, val_acc: 0.6979 (best_val_acc: 0.7251)
+In epoch 60, train loss: 0.0657, val_acc: 0.7009 (best_val_acc: 0.7251)
+In epoch 70, train loss: 0.0631, val_acc: 0.6918 (best_val_acc: 0.7251)
+In epoch 80, train loss: 0.0616, val_acc: 0.6979 (best_val_acc: 0.7251)
+In epoch 90, train loss: 0.0595, val_acc: 0.6979 (best_val_acc: 0.7251)
+In epoch 100, train loss: 0.0584, val_acc: 0.7009 (best_val_acc: 0.7251)
+In epoch 110, train loss: 0.0574, val_acc: 0.7039 (best_val_acc: 0.7251)
+In epoch 120, train loss: 0.0563, val_acc: 0.7069 (best_val_acc: 0.7251)
+all transformer (R25) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 20, k_nn: 20, S_value : 6, Best Epoch: 26, Accuracy: 0.7034, Precision: 0.7196, Recall: 0.7034, F1-score 0.6779
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'bayanpy', 'wurlitzer', 'infomap', 'leidenalg', 'graph_tool'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'wurlitzer', 'infomap'}
+In epoch 0, train loss: 2.6380, val_acc: 0.1511 (best_val_acc: 0.1511)
+In epoch 10, train loss: 1.8346, val_acc: 0.2296 (best_val_acc: 0.2296)
+In epoch 20, train loss: 1.0023, val_acc: 0.6737 (best_val_acc: 0.6737)
+In epoch 30, train loss: 0.1818, val_acc: 0.7069 (best_val_acc: 0.7190)
+In epoch 40, train loss: 0.1078, val_acc: 0.7069 (best_val_acc: 0.7221)
+In epoch 50, train loss: 0.0930, val_acc: 0.7100 (best_val_acc: 0.7221)
+In epoch 60, train loss: 0.0891, val_acc: 0.7009 (best_val_acc: 0.7221)
+In epoch 70, train loss: 0.0865, val_acc: 0.6918 (best_val_acc: 0.7221)
+In epoch 80, train loss: 0.0801, val_acc: 0.7069 (best_val_acc: 0.7221)
+In epoch 90, train loss: 0.0780, val_acc: 0.7009 (best_val_acc: 0.7221)
+In epoch 100, train loss: 0.0754, val_acc: 0.7039 (best_val_acc: 0.7221)
+In epoch 110, train loss: 0.0749, val_acc: 0.7039 (best_val_acc: 0.7221)
+In epoch 120, train loss: 0.0810, val_acc: 0.6888 (best_val_acc: 0.7221)
+In epoch 130, train loss: 0.0803, val_acc: 0.6979 (best_val_acc: 0.7221)
+all transformer (R25) GCN3, considering node1, and single org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 31, Accuracy: 0.7004, Precision: 0.6925, Recall: 0.7004, F1-score 0.6856
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'graph_tool', 'infomap', 'bayanpy', 'leidenalg', 'wurlitzer'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'leidenalg'}
+In epoch 0, train loss: 2.7304, val_acc: 0.0030 (best_val_acc: 0.0030)
+In epoch 10, train loss: 2.0880, val_acc: 0.2356 (best_val_acc: 0.2628)
+In epoch 20, train loss: 1.4752, val_acc: 0.4834 (best_val_acc: 0.4834)
+In epoch 30, train loss: 0.2727, val_acc: 0.7130 (best_val_acc: 0.7221)
+In epoch 40, train loss: 0.1183, val_acc: 0.7160 (best_val_acc: 0.7281)
+In epoch 50, train loss: 0.0817, val_acc: 0.7190 (best_val_acc: 0.7281)
+In epoch 60, train loss: 0.0741, val_acc: 0.6858 (best_val_acc: 0.7281)
+In epoch 70, train loss: 0.0715, val_acc: 0.7100 (best_val_acc: 0.7281)
+In epoch 80, train loss: 0.0647, val_acc: 0.7069 (best_val_acc: 0.7281)
+In epoch 90, train loss: 0.0641, val_acc: 0.6979 (best_val_acc: 0.7281)
+In epoch 100, train loss: 0.0653, val_acc: 0.7039 (best_val_acc: 0.7281)
+In epoch 110, train loss: 0.0636, val_acc: 0.7100 (best_val_acc: 0.7281)
+In epoch 120, train loss: 0.0628, val_acc: 0.7100 (best_val_acc: 0.7281)
+In epoch 130, train loss: 0.0579, val_acc: 0.7009 (best_val_acc: 0.7281)
+all transformer (R25) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 90, k_nn: 70, S_value : 2, Best Epoch: 37, Accuracy: 0.7015, Precision: 0.6856, Recall: 0.7015, F1-score 0.6848
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'bayanpy', 'leidenalg', 'wurlitzer', 'graph_tool'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'leidenalg'}
+In epoch 0, train loss: 2.6514, val_acc: 0.1511 (best_val_acc: 0.1511)
+In epoch 10, train loss: 1.9432, val_acc: 0.2689 (best_val_acc: 0.2689)
+In epoch 20, train loss: 1.0035, val_acc: 0.5921 (best_val_acc: 0.5921)
+In epoch 30, train loss: 0.2255, val_acc: 0.7341 (best_val_acc: 0.7372)
+In epoch 40, train loss: 0.1217, val_acc: 0.7069 (best_val_acc: 0.7372)
+In epoch 50, train loss: 0.1098, val_acc: 0.7100 (best_val_acc: 0.7372)
+In epoch 60, train loss: 0.1091, val_acc: 0.6979 (best_val_acc: 0.7372)
+In epoch 70, train loss: 0.1020, val_acc: 0.6949 (best_val_acc: 0.7372)
+In epoch 80, train loss: 0.1054, val_acc: 0.7100 (best_val_acc: 0.7372)
+In epoch 90, train loss: 0.1036, val_acc: 0.7009 (best_val_acc: 0.7372)
+In epoch 100, train loss: 0.1025, val_acc: 0.7069 (best_val_acc: 0.7372)
+In epoch 110, train loss: 0.1014, val_acc: 0.7009 (best_val_acc: 0.7372)
+In epoch 120, train loss: 0.1011, val_acc: 0.6979 (best_val_acc: 0.7372)
+all transformer (R25) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (50): k_means: 20, k_nn: 20, S_value : 2, Best Epoch: 26, Accuracy: 0.6992, Precision: 0.7051, Recall: 0.6992, F1-score 0.6923
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'graph_tool', 'infomap', 'leidenalg', 'bayanpy'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'infomap', 'wurlitzer'}
+In epoch 0, train loss: 2.5780, val_acc: 0.1903 (best_val_acc: 0.1903)
+In epoch 10, train loss: 1.9616, val_acc: 0.2326 (best_val_acc: 0.2326)
+In epoch 20, train loss: 1.2265, val_acc: 0.3505 (best_val_acc: 0.5166)
+In epoch 30, train loss: 0.2882, val_acc: 0.6435 (best_val_acc: 0.7160)
+In epoch 40, train loss: 0.1380, val_acc: 0.6888 (best_val_acc: 0.7160)
+In epoch 50, train loss: 0.1148, val_acc: 0.6828 (best_val_acc: 0.7160)
+In epoch 60, train loss: 0.1087, val_acc: 0.6888 (best_val_acc: 0.7160)
+In epoch 70, train loss: 0.1043, val_acc: 0.6858 (best_val_acc: 0.7160)
+In epoch 80, train loss: 0.0964, val_acc: 0.6918 (best_val_acc: 0.7160)
+In epoch 90, train loss: 0.0954, val_acc: 0.6858 (best_val_acc: 0.7160)
+In epoch 100, train loss: 0.0944, val_acc: 0.6888 (best_val_acc: 0.7160)
+In epoch 110, train loss: 0.0997, val_acc: 0.6858 (best_val_acc: 0.7160)
+In epoch 120, train loss: 0.0996, val_acc: 0.6767 (best_val_acc: 0.7160)
+all transformer (R30) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (50): k_means: 20, k_nn: 20, S_value : 2, Best Epoch: 26, Accuracy: 0.7094, Precision: 0.6682, Recall: 0.7094, F1-score 0.6824
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'bayanpy', 'infomap', 'leidenalg', 'wurlitzer', 'graph_tool'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'pyclustering', 'ASLPAw'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'wurlitzer', 'infomap'}
+In epoch 0, train loss: 2.6571, val_acc: 0.0211 (best_val_acc: 0.0211)
+In epoch 10, train loss: 1.8334, val_acc: 0.2085 (best_val_acc: 0.2145)
+In epoch 20, train loss: 1.2476, val_acc: 0.2689 (best_val_acc: 0.3595)
+In epoch 30, train loss: 0.2309, val_acc: 0.6375 (best_val_acc: 0.7190)
+In epoch 40, train loss: 0.0563, val_acc: 0.6918 (best_val_acc: 0.7190)
+In epoch 50, train loss: 0.0336, val_acc: 0.6828 (best_val_acc: 0.7190)
+In epoch 60, train loss: 0.0259, val_acc: 0.6828 (best_val_acc: 0.7190)
+In epoch 70, train loss: 0.0213, val_acc: 0.6798 (best_val_acc: 0.7190)
+In epoch 80, train loss: 0.0195, val_acc: 0.6949 (best_val_acc: 0.7190)
+In epoch 90, train loss: 0.0171, val_acc: 0.6858 (best_val_acc: 0.7190)
+In epoch 100, train loss: 0.0181, val_acc: 0.6737 (best_val_acc: 0.7190)
+In epoch 110, train loss: 0.0176, val_acc: 0.6828 (best_val_acc: 0.7190)
+In epoch 120, train loss: 0.0175, val_acc: 0.6918 (best_val_acc: 0.7190)
+all transformer (R30) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (5): k_means: 20, k_nn: 20, S_value : 2, Best Epoch: 27, Accuracy: 0.7057, Precision: 0.7116, Recall: 0.7057, F1-score 0.6893
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'bayanpy', 'leidenalg', 'infomap', 'graph_tool', 'wurlitzer'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'wurlitzer', 'leidenalg'}
+In epoch 0, train loss: 2.7130, val_acc: 0.0755 (best_val_acc: 0.0755)
+In epoch 10, train loss: 1.9138, val_acc: 0.1964 (best_val_acc: 0.2085)
+In epoch 20, train loss: 1.6561, val_acc: 0.2085 (best_val_acc: 0.3927)
+In epoch 30, train loss: 0.4820, val_acc: 0.6495 (best_val_acc: 0.6979)
+In epoch 40, train loss: 0.1568, val_acc: 0.6918 (best_val_acc: 0.7039)
+In epoch 50, train loss: 0.1247, val_acc: 0.6888 (best_val_acc: 0.7039)
+In epoch 60, train loss: 0.1149, val_acc: 0.6858 (best_val_acc: 0.7039)
+In epoch 70, train loss: 0.1075, val_acc: 0.6828 (best_val_acc: 0.7039)
+In epoch 80, train loss: 0.1047, val_acc: 0.6979 (best_val_acc: 0.7039)
+In epoch 90, train loss: 0.1024, val_acc: 0.6858 (best_val_acc: 0.7039)
+In epoch 100, train loss: 0.0966, val_acc: 0.6918 (best_val_acc: 0.7039)
+In epoch 110, train loss: 0.0964, val_acc: 0.6979 (best_val_acc: 0.7039)
+In epoch 120, train loss: 0.1031, val_acc: 0.6858 (best_val_acc: 0.7039)
+In epoch 130, train loss: 0.1022, val_acc: 0.6918 (best_val_acc: 0.7039)
+all transformer (R30) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (50): k_means: 250, k_nn: 60, S_value : 2, Best Epoch: 34, Accuracy: 0.6913, Precision: 0.7017, Recall: 0.6913, F1-score 0.6817
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'infomap', 'bayanpy', 'graph_tool', 'wurlitzer'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'infomap', 'wurlitzer'}
+In epoch 0, train loss: 2.7404, val_acc: 0.1480 (best_val_acc: 0.1480)
+In epoch 10, train loss: 2.1821, val_acc: 0.2387 (best_val_acc: 0.2387)
+In epoch 20, train loss: 1.5786, val_acc: 0.3414 (best_val_acc: 0.3867)
+In epoch 30, train loss: 0.5231, val_acc: 0.6224 (best_val_acc: 0.6556)
+In epoch 40, train loss: 0.1497, val_acc: 0.6858 (best_val_acc: 0.7069)
+In epoch 50, train loss: 0.1062, val_acc: 0.6858 (best_val_acc: 0.7069)
+In epoch 60, train loss: 0.0935, val_acc: 0.6707 (best_val_acc: 0.7069)
+In epoch 70, train loss: 0.0842, val_acc: 0.6767 (best_val_acc: 0.7069)
+In epoch 80, train loss: 0.0803, val_acc: 0.6858 (best_val_acc: 0.7069)
+In epoch 90, train loss: 0.0851, val_acc: 0.6767 (best_val_acc: 0.7069)
+In epoch 100, train loss: 0.0786, val_acc: 0.6677 (best_val_acc: 0.7069)
+In epoch 110, train loss: 0.0783, val_acc: 0.6737 (best_val_acc: 0.7069)
+In epoch 120, train loss: 0.0835, val_acc: 0.6737 (best_val_acc: 0.7069)
+In epoch 130, train loss: 0.0781, val_acc: 0.6737 (best_val_acc: 0.7069)
+all transformer (R30) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (50): k_means: 5, k_nn: 5, S_value : 4, Best Epoch: 34, Accuracy: 0.7136, Precision: 0.7074, Recall: 0.7136, F1-score 0.7068
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'leidenalg', 'graph_tool', 'infomap', 'bayanpy'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'leidenalg'}
+In epoch 0, train loss: 2.7943, val_acc: 0.0846 (best_val_acc: 0.0846)
+In epoch 10, train loss: 1.9664, val_acc: 0.2024 (best_val_acc: 0.2356)
+In epoch 20, train loss: 1.3471, val_acc: 0.3323 (best_val_acc: 0.4683)
+In epoch 30, train loss: 0.2746, val_acc: 0.6707 (best_val_acc: 0.7190)
+In epoch 40, train loss: 0.1005, val_acc: 0.6949 (best_val_acc: 0.7190)
+In epoch 50, train loss: 0.0710, val_acc: 0.6949 (best_val_acc: 0.7190)
+In epoch 60, train loss: 0.0700, val_acc: 0.6888 (best_val_acc: 0.7190)
+In epoch 70, train loss: 0.0654, val_acc: 0.6828 (best_val_acc: 0.7190)
+In epoch 80, train loss: 0.0580, val_acc: 0.6798 (best_val_acc: 0.7190)
+In epoch 90, train loss: 0.0608, val_acc: 0.6858 (best_val_acc: 0.7190)
+In epoch 100, train loss: 0.0558, val_acc: 0.6798 (best_val_acc: 0.7190)
+In epoch 110, train loss: 0.0598, val_acc: 0.6858 (best_val_acc: 0.7190)
+In epoch 120, train loss: 0.0595, val_acc: 0.6828 (best_val_acc: 0.7190)
+all transformer (R30) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (50): k_means: 5, k_nn: 5, S_value : 2, Best Epoch: 27, Accuracy: 0.7068, Precision: 0.7101, Recall: 0.7068, F1-score 0.6869
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'infomap', 'bayanpy', 'graph_tool', 'wurlitzer'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'wurlitzer', 'leidenalg'}
+Traceback (most recent call last):
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/untitled_wiki_modi.py", line 226, in <module>
+    pred=(pred1+pred3)/2 
+         ^^^^^^^
+AttributeError: module 'torch.nn' has no attribute 'tanh'. Did you mean: 'Tanh'?
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'leidenalg', 'graph_tool', 'bayanpy', 'wurlitzer'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'wurlitzer', 'infomap'}
+Traceback (most recent call last):
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/untitled_wiki_modi.py", line 226, in <module>
+    pred=(pred1+pred3)/2 
+         ~~~~~~~~~~~~~^~~~
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/torch/nn/modules/module.py", line 461, in __init__
+    raise TypeError(f"{type(self).__name__}.__init__() takes 1 positional argument but {len(args) + 1} were"
+TypeError: Tanh.__init__() takes 1 positional argument but 2 were given
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'graph_tool', 'wurlitzer', 'bayanpy', 'leidenalg'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'leidenalg', 'wurlitzer'}
+In epoch 0, train loss: 2.2705, val_acc: 0.0393 (best_val_acc: 0.0393)
+In epoch 10, train loss: 1.5781, val_acc: 0.1994 (best_val_acc: 0.2145)
+In epoch 20, train loss: 1.1068, val_acc: 0.5408 (best_val_acc: 0.5408)
+In epoch 30, train loss: 0.2372, val_acc: 0.6918 (best_val_acc: 0.6979)
+In epoch 40, train loss: 0.0971, val_acc: 0.6737 (best_val_acc: 0.6979)
+In epoch 50, train loss: 0.0746, val_acc: 0.6798 (best_val_acc: 0.6979)
+In epoch 60, train loss: 0.0669, val_acc: 0.6918 (best_val_acc: 0.6979)
+In epoch 70, train loss: 0.0585, val_acc: 0.6979 (best_val_acc: 0.7009)
+In epoch 80, train loss: 0.0571, val_acc: 0.6949 (best_val_acc: 0.7009)
+In epoch 90, train loss: 0.0598, val_acc: 0.6979 (best_val_acc: 0.7039)
+In epoch 100, train loss: 0.0551, val_acc: 0.7009 (best_val_acc: 0.7039)
+In epoch 110, train loss: 0.0550, val_acc: 0.6888 (best_val_acc: 0.7039)
+In epoch 120, train loss: 0.0591, val_acc: 0.7039 (best_val_acc: 0.7039)
+In epoch 130, train loss: 0.0590, val_acc: 0.6949 (best_val_acc: 0.7039)
+In epoch 140, train loss: 0.0590, val_acc: 0.6918 (best_val_acc: 0.7039)
+In epoch 150, train loss: 0.0589, val_acc: 0.7009 (best_val_acc: 0.7039)
+In epoch 160, train loss: 0.0588, val_acc: 0.6979 (best_val_acc: 0.7039)
+In epoch 170, train loss: 0.0589, val_acc: 0.7009 (best_val_acc: 0.7039)
+In epoch 180, train loss: 0.0587, val_acc: 0.6918 (best_val_acc: 0.7039)
+1-lambda_cl all transformer (R30) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 5, k_nn: 5, S_value : 2, Best Epoch: 85, Accuracy: 0.6872, Precision: 0.6785, Recall: 0.6872, F1-score 0.6787
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'bayanpy', 'infomap', 'wurlitzer', 'leidenalg', 'graph_tool'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'wurlitzer', 'leidenalg'}
+Traceback (most recent call last):
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/untitled_wiki_modi.py", line 180, in <module>
+    pred1,node_features1= model1(hyG1, v_feat1, e_feat1, True,True) 
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/model_and_layers_modified.py", line 245, in forward
+    x, y = self.layer1(hyG, v_feat, e_feat, first_layer, second_layer) # No changes here since we're already getting two return values from self.layer1
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/model_and_layers_modified.py", line 228, in forward
+    pred, feat = attn_head(hyG, v_feat, e_feat, first_layer, second_layer)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/Hypergraph Contrastive Learning/hcl/model_and_layers_modified.py", line 192, in forward
+    hyG.update_all(self.message_func, self.reduce_func2, etype='con')
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/dgl/heterograph.py", line 5112, in update_all
+    ndata = core.message_passing(
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/dgl/core.py", line 415, in message_passing
+    ndata = invoke_udf_reduce(g, rfunc, msgdata, orig_nid=orig_nid)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/dgl/core.py", line 152, in invoke_udf_reduce
+    for k, msg in msgdata_bkt.items():
+  File "<frozen _collections_abc>", line 894, in __iter__
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/dgl/frame.py", line 688, in __getitem__
+    return self._columns[name].data
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/dgl/frame.py", line 254, in data
+    self.storage = F.gather_row(self.storage, self.index)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ksaifuddin1/miniconda3/envs/thtn/lib/python3.12/site-packages/dgl/backend/pytorch/tensor.py", line 239, in gather_row
+    return th.index_select(data, 0, row_index.long())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 58.00 MiB. GPU 1 has a total capacity of 44.31 GiB of which 58.31 MiB is free. Including non-PyTorch memory, this process has 44.24 GiB memory in use. Of the allocated memory 43.50 GiB is allocated by PyTorch, and 222.75 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'bayanpy', 'wurlitzer', 'graph_tool', 'infomap', 'leidenalg'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'ASLPAw', 'pyclustering'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'leidenalg', 'wurlitzer'}
+In epoch 0, train loss: 2.9208, val_acc: 0.0704 (best_val_acc: 0.0704)
+In epoch 10, train loss: 1.9662, val_acc: 0.1222 (best_val_acc: 0.2815)
+In epoch 20, train loss: 1.7500, val_acc: 0.2778 (best_val_acc: 0.2815)
+In epoch 30, train loss: 1.5319, val_acc: 0.2778 (best_val_acc: 0.2815)
+In epoch 40, train loss: 0.5839, val_acc: 0.1815 (best_val_acc: 0.2815)
+In epoch 50, train loss: 0.1771, val_acc: 0.1963 (best_val_acc: 0.2815)
+In epoch 60, train loss: 0.0743, val_acc: 0.1926 (best_val_acc: 0.2815)
+In epoch 70, train loss: 0.0460, val_acc: 0.1889 (best_val_acc: 0.2815)
+In epoch 80, train loss: 0.0367, val_acc: 0.1926 (best_val_acc: 0.2815)
+In epoch 90, train loss: 0.0349, val_acc: 0.1852 (best_val_acc: 0.2815)
+In epoch 100, train loss: 0.0325, val_acc: 0.1963 (best_val_acc: 0.2815)
+(R25) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 1, Accuracy: 0.3018, Precision: 0.0911, Recall: 0.3018, F1-score 0.1399
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'bayanpy', 'leidenalg', 'infomap', 'graph_tool'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'pyclustering', 'ASLPAw'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'leidenalg', 'infomap'}
+In epoch 0, train loss: 2.7663, val_acc: 0.0296 (best_val_acc: 0.0296)
+In epoch 10, train loss: 1.8669, val_acc: 0.2815 (best_val_acc: 0.2852)
+In epoch 20, train loss: 1.4570, val_acc: 0.4815 (best_val_acc: 0.4815)
+In epoch 30, train loss: 0.3361, val_acc: 0.8074 (best_val_acc: 0.8074)
+In epoch 40, train loss: 0.1060, val_acc: 0.8222 (best_val_acc: 0.8222)
+In epoch 50, train loss: 0.0574, val_acc: 0.7963 (best_val_acc: 0.8222)
+In epoch 60, train loss: 0.0412, val_acc: 0.8000 (best_val_acc: 0.8222)
+In epoch 70, train loss: 0.0364, val_acc: 0.7963 (best_val_acc: 0.8222)
+In epoch 80, train loss: 0.0356, val_acc: 0.7926 (best_val_acc: 0.8222)
+In epoch 90, train loss: 0.0329, val_acc: 0.8037 (best_val_acc: 0.8222)
+In epoch 100, train loss: 0.0333, val_acc: 0.8000 (best_val_acc: 0.8222)
+In epoch 110, train loss: 0.0317, val_acc: 0.8037 (best_val_acc: 0.8222)
+In epoch 120, train loss: 0.0313, val_acc: 0.8037 (best_val_acc: 0.8222)
+In epoch 130, train loss: 0.0319, val_acc: 0.7963 (best_val_acc: 0.8222)
+(R25) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 40, Accuracy: 0.8394, Precision: 0.8480, Recall: 0.8394, F1-score 0.8390
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'leidenalg', 'bayanpy', 'graph_tool', 'wurlitzer', 'infomap'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'pyclustering', 'ASLPAw'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'infomap', 'wurlitzer', 'leidenalg'}
+In epoch 0, train loss: 2.8779, val_acc: 0.0444 (best_val_acc: 0.0444)
+In epoch 10, train loss: 1.8769, val_acc: 0.2111 (best_val_acc: 0.3370)
+In epoch 20, train loss: 1.5815, val_acc: 0.3630 (best_val_acc: 0.3630)
+In epoch 30, train loss: 0.7796, val_acc: 0.6889 (best_val_acc: 0.7370)
+In epoch 40, train loss: 0.1616, val_acc: 0.8481 (best_val_acc: 0.8481)
+In epoch 50, train loss: 0.0689, val_acc: 0.8444 (best_val_acc: 0.8630)
+In epoch 60, train loss: 0.0470, val_acc: 0.8333 (best_val_acc: 0.8630)
+In epoch 70, train loss: 0.0386, val_acc: 0.8296 (best_val_acc: 0.8630)
+In epoch 80, train loss: 0.0359, val_acc: 0.8259 (best_val_acc: 0.8630)
+In epoch 90, train loss: 0.0337, val_acc: 0.8259 (best_val_acc: 0.8630)
+In epoch 100, train loss: 0.0346, val_acc: 0.8370 (best_val_acc: 0.8630)
+In epoch 110, train loss: 0.0326, val_acc: 0.8333 (best_val_acc: 0.8630)
+In epoch 120, train loss: 0.0313, val_acc: 0.8259 (best_val_acc: 0.8630)
+In epoch 130, train loss: 0.0319, val_acc: 0.8111 (best_val_acc: 0.8630)
+In epoch 140, train loss: 0.0303, val_acc: 0.8407 (best_val_acc: 0.8630)
+(R25) GCN3, considering node1, and double org. loss, With Aug, Gradient Descent, WMLP, and Dis. based Sampled Neg (25): k_means: 50, k_nn: 60, S_value : 2, Best Epoch: 47, Accuracy: 0.8560, Precision: 0.8552, Recall: 0.8560, F1-score 0.8549
